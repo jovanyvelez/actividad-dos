@@ -4,7 +4,7 @@
 </script>
 
 <Slide class="h-full place-content-center place-items-center">
-	<p class=" text-8xl">Fase 5: <span class="font-bold text-green-700">Prototipar</span></p>
+	<p class=" text-8xl">Fase 5: <span class="font-bold text-green-700">Evaluar</span></p>
 </Slide>
 
 <Slide class="h-full place-content-center place-items-center">
